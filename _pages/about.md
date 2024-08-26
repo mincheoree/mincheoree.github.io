@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Education"
+# title: "Education"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,7 +20,7 @@ Work Experience
 ======
 
 * Visioin AI Lab, Seoul, Korea 
-  * Full-time Graduate
+  * Full-time Graduate (Advisor: Prof. Jinkyu Kim)
   * Sep. 2022 - Aug. 2024  
 
 * NAVER LABS, Seongnam, Korea 
@@ -28,7 +28,7 @@ Work Experience
   * Mar. 2023 - Sep. 2023  
 
 * Medical AI and Computer Vision Group, Hong Kong 
-  * Research Intern 
+  * Research Intern (Advisor: Prof. Xiaomeng Li)
   * Apr. 2021 - May. 2022  
 
 * Upenn Solution, Seoul, Korea 
