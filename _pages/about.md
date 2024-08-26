@@ -1,6 +1,7 @@
 ---
 permalink: /
-# title: "Education"
+title: ""
+except: "About me"
 author_profile: true
 redirect_from: 
   - /about/
