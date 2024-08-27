@@ -21,20 +21,24 @@ Work Experience
 ======
 
 * Visioin AI Lab, Seoul, Korea 
-  * Full-time Graduate (Advisor: Prof. Jinkyu Kim)
+  * Full-time Graduate (Advisor: <a href="https://visionai.korea.ac.kr/">Prof. Jinkyu Kim</a>)
   * Sep. 2022 - Aug. 2024  
+  * Researched on DL-based 3D Object Detection in Autonomous Driving, Anomaly Detection 
 
 * NAVER LABS, Seongnam, Korea 
   * Research Intern 
   * Mar. 2023 - Sep. 2023  
+  * Researched on developing low-cost Pseudo LiDAR generation pipeline of long-tail classes using NeRFs
 
 * Medical AI and Computer Vision Group, Hong Kong 
-  * Research Intern (Advisor: Prof. Xiaomeng Li)
+  * Research Intern (Advisor: <a href="https://xmengli.github.io/">Prof. Xiaomeng Li</a>)
   * Apr. 2021 - May. 2022  
+  * Researched on Fourier Augmentation to develop domain generalizable segmentation model in Fundus data. 
 
 * Upenn Solution, Seoul, Korea 
   * Crawler Developer Intern 
   * Jun. 2021 - Aug. 2021  
+  * Developed web-scraping module for crawling data from NAVER News/Blog, Coupang, etc. 
 
 Publications
 ======
@@ -50,16 +54,36 @@ Publications
 > <i style='font-style: normal;'>**BEVMap - Map-Aware BEV Modeling for 3D Perception**<br></i>
 >> <i style='font-style: normal;'>**Mincheol Chang**, Seokha Moon, Reza Mahjourian, Jinkyu Kim<br></i>
 >> <i style='font-style: normal;'>IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2024.<br></i>
->> <i style='font-style: normal;'><a href="https://[arxiv.org/pdf/2403.11573.pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Chang_BEVMap_Map-Aware_BEV_Modeling_for_3D_Perception_WACV_2024_paper.pdf)">[Paper]</a><a href="https://github.com/mincheoree/BEVMap">[Code]</a>
+>> <i style='font-style: normal;'><a href="https://[arxiv.org/pdf/2403.11573.pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Chang_BEVMap_Map-Aware_BEV_Modeling_for_3D_Perception_WACV_2024_paper.pdf)">[Paper]</a><a href="https://github.com/mincheoree/BEVMap">[Code]</a><a href="https://www.youtube.com/watch?v=PLeWBx-J58Q">[Video]</a>
+
 
 Projects
 ======
+* Domain Generalizable Anomaly Detection 모델 개발
+  * SK-Telecom 산학 프로젝트
+  * Sep. 2022 - Feb. 2023 
 
+* Domain Generalizable LiDAR 객체인식 Finetuning Method 개발
+  * 현대자동차 산학 프로젝트
+  * Sep. 2023 - Jun. 2024
+
+* Mask 불량 검출 이상점 검출 기술 개발
+  * 삼성전자 반도체 연구소 산학 프로젝트
+  * Feb. 2024 - Jul. 2024
+   
 Awards
 ======
+* 미래형자동차 핵심기술 R&D 산학프로젝트 성과 발표회 우수상 
+  * 지도 정보를 융합한 멀티뷰 카메라 객체인식 모델 개발
+  * Jan. 2024
 
 Skills
 ======
+* Python
+* Pytorch/Tensorflow
+* C++  
+* Linux and Shell 
+* Git and Docker
 <!-- 
 **Markdown generator**
 
