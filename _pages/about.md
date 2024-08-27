@@ -9,8 +9,8 @@ redirect_from:
 ---
 About Me
 ======
-I am a MS. student at Korea university under supervision of Professor Jinkyu Kim.
-My primary interest is in developing real-world applications using AI.<br>
+I am a MS. student at Korea university under supervision of Professor Jinkyu Kim.<br>
+My primary interest lies in developing real-world applications using AI.<br>
 I have been interested in 3D Object Detection in Autonomous Driving, 3D reconstruction, Domain Generalization, Data Augmentation and Anomaly Detection.   
 
 Education
