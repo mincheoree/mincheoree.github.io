@@ -60,7 +60,7 @@ Publications
 > <i style='font-style: normal;'>**BEVMap - Map-Aware BEV Modeling for 3D Perception**<br></i>
 >> <i style='font-style: normal;'>**Mincheol Chang**, Seokha Moon, Reza Mahjourian, Jinkyu Kim<br></i>
 >> <i style='font-style: normal;'>IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2024.<br></i>
->> <i style='font-style: normal;'><a href="https://[arxiv.org/pdf/2403.11573.pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Chang_BEVMap_Map-Aware_BEV_Modeling_for_3D_Perception_WACV_2024_paper.pdf)">[Paper]</a><a href="https://github.com/mincheoree/BEVMap">[Code]</a><a href="https://www.youtube.com/watch?v=PLeWBx-J58Q">[Video]</a>
+>> <i style='font-style: normal;'><a href="https://openaccess.thecvf.com/content/WACV2024/papers/Chang_BEVMap_Map-Aware_BEV_Modeling_for_3D_Perception_WACV_2024_paper.pdf">[Paper]</a><a href="https://github.com/mincheoree/BEVMap">[Code]</a><a href="https://www.youtube.com/watch?v=PLeWBx-J58Q">[Video]</a>
 
 
 Projects
