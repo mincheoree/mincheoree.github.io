@@ -31,7 +31,7 @@ Work Experience
   * Sep. 2022 - Aug. 2024  
   * Researched on DL-based 3D Object Detection in Autonomous Driving, Anomaly Detection 
 
-* NAVER LABS, Seongnam, Korea 
+* NAVER LABS, Seongnam, Korea (Advisor: <a href="https://scholar.google.com/citations?user=iGSaIU0AAAAJ&hl=en&oi=sra">Siyeong Lee</a>, <a href="https://scholar.google.com/citations?user=IYyLBQYAAAAJ&hl=en&oi=sra">Namil Kim</a>)
   * Research Intern 
   * Mar. 2023 - Sep. 2023  
   * Researched on developing low-cost Pseudo LiDAR generation pipeline of long-tail classes using NeRFs
