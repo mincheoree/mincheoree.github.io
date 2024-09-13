@@ -9,9 +9,9 @@ redirect_from:
 ---
 About Me
 ======
-I am a MS. student at Korea university under supervision of Professor Jinkyu Kim.<br>
-My primary interest lies in developing real-world applications using AI.<br>
-I have been interested in 3D Object Detection in Autonomous Driving, 3D reconstruction, Domain Generalization, Data Augmentation and Anomaly Detection.   
+I am **Mincheol Chang**. I received my master degree at Department of Computer Science at Korea University under supervision of Professor Jinkyu Kim. <br> 
+My primary interest lies in developing real-world applications using computer vision and deep learning.<br>
+My research interests are 3D Object Detection in Autonomous Driving, 3D reconstruction, Domain Generalization, Data Augmentation and Anomaly Detection.   
 
 Education
 ====
@@ -56,11 +56,19 @@ Publications
 > <i style='font-style: normal;'>**Finetuning Pre-trained Model with Limited Data for 3D Object Detection by Bridging Domain Gaps**<br></i>
 >> <i style='font-style: normal;'>Jiyun Jang, **Mincheol Chang**, Jinkyu Kim<br></i>
 >> <i style='font-style: normal;'>IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2024.<br></i>
+<!-- ![hi](../images/dadt.png) -->
+<img src= "../images/dadt.png" width = '400px' height = '350px'>
 
 > <i style='font-style: normal;'>**BEVMap - Map-Aware BEV Modeling for 3D Perception**<br></i>
 >> <i style='font-style: normal;'>**Mincheol Chang**, Seokha Moon, Reza Mahjourian, Jinkyu Kim<br></i>
 >> <i style='font-style: normal;'>IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2024.<br></i>
 >> <i style='font-style: normal;'><a href="https://openaccess.thecvf.com/content/WACV2024/papers/Chang_BEVMap_Map-Aware_BEV_Modeling_for_3D_Perception_WACV_2024_paper.pdf">[Paper]</a><a href="https://github.com/mincheoree/BEVMap">[Code]</a><a href="https://www.youtube.com/watch?v=PLeWBx-J58Q">[Video]</a>
+
+<p float="left">
+  <img src= "../images/car.gif" width = '200' height = '200'/>
+  <img src= "../images/seg.gif" width = '200' height = '200' />
+  <img src= "../images/map.gif" width = "200" height = '200' />
+</p>
 
 
 Projects
