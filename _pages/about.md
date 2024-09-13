@@ -9,9 +9,9 @@ redirect_from:
 ---
 About Me
 ======
-I am **Mincheol Chang**. I received my master degree at Department of Computer Science at Korea University under supervision of Professor Jinkyu Kim. <br> 
+I am **Mincheol Chang**. I received my master degree at Department of Computer Science at **Korea University** under supervision of Professor Jinkyu Kim. <br> 
 My primary interest lies in developing real-world applications using computer vision and deep learning.<br>
-My research interests are 3D Object Detection in Autonomous Driving, 3D reconstruction, Domain Generalization, Data Augmentation and Anomaly Detection.
+My research interests are **3D Object Detection in Autonomous Driving, 3D reconstruction, Domain Generalization, Data Augmentation and Anomaly Detection**.
 
 Education
 ====
