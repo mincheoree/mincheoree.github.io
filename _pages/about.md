@@ -50,8 +50,8 @@ Publications
 ======
 > <i style='font-style: normal;'>**Just Add $100 More: Augmenting Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**<br></i>
 >> <i style='font-style: normal;'>**Mincheol Chang**, Siyeong Lee, Jinkyu Kim, Namil Kim<br></i>
->> <i style='font-style: normal;'>Under Review (**arXiv**), 2024.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/pdf/2403.11573.pdf">[arXiv]</a> 
+>> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2024.<br></i>
+
 
 > <i style='font-style: normal;'>**Finetuning Pre-trained Model with Limited Data for 3D Object Detection by Bridging Domain Gaps**<br></i>
 >> <i style='font-style: normal;'>Jiyun Jang, **Mincheol Chang**, Jinkyu Kim<br></i>
