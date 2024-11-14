@@ -52,6 +52,7 @@ Publications
 >> <i style='font-style: normal;'>**Mincheol Chang**, Siyeong Lee, Jinkyu Kim, Namil Kim<br></i>
 >> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2024.<br></i>
 >> <i style='font-style: normal;'><a href="https://openreview.net/pdf/1811098cec4bd9ae87fb5f0de9ad844cef9e6f81.pdf">[Paper]</a>
+
 <!-- ![hi](../images/teaser.png) -->
 <img src= "../images/teaser.png" width = '900px' height = '350px'>
 
@@ -59,6 +60,7 @@ Publications
 >> <i style='font-style: normal;'>Jiyun Jang, **Mincheol Chang**, Jinkyu Kim<br></i>
 >> <i style='font-style: normal;'>IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2024.<br></i>
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2410.01319">[Paper]</a>
+
 <!-- ![hi](../images/dadt.png) -->
 <img src= "../images/dadt.png" width = '400px' height = '350px'>
 
